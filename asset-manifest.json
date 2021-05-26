@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Jiyoung_blog/static/css/main.8d98f4b9.chunk.css",
+    "main.js": "/Jiyoung_blog/static/js/main.f8cc5267.chunk.js",
+    "main.js.map": "/Jiyoung_blog/static/js/main.f8cc5267.chunk.js.map",
+    "runtime-main.js": "/Jiyoung_blog/static/js/runtime-main.d9a0ead3.js",
+    "runtime-main.js.map": "/Jiyoung_blog/static/js/runtime-main.d9a0ead3.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Jiyoung_blog/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4761868e.chunk.js": "/Jiyoung_blog/static/js/2.4761868e.chunk.js",
+    "static/js/2.4761868e.chunk.js.map": "/Jiyoung_blog/static/js/2.4761868e.chunk.js.map",
+    "static/js/3.d239fe93.chunk.js": "/Jiyoung_blog/static/js/3.d239fe93.chunk.js",
+    "static/js/3.d239fe93.chunk.js.map": "/Jiyoung_blog/static/js/3.d239fe93.chunk.js.map",
+    "index.html": "/Jiyoung_blog/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Jiyoung_blog/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8d98f4b9.chunk.css.map": "/Jiyoung_blog/static/css/main.8d98f4b9.chunk.css.map",
+    "static/js/2.4761868e.chunk.js.LICENSE.txt": "/Jiyoung_blog/static/js/2.4761868e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a0ead3.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4761868e.chunk.js",
+    "static/css/main.8d98f4b9.chunk.css",
+    "static/js/main.f8cc5267.chunk.js"
+  ]
+}
