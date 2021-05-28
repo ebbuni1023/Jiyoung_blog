@@ -10,7 +10,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import './navbar.css'
 function NavBar() {
-
     return (
     <>
         <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">

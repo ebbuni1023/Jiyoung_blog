@@ -15,7 +15,6 @@ import NavBar from "./navbar";
 import Main from "./navbar";
 export const Home = (props) => {
     return(
-        
     < NavBar />
     
     );
